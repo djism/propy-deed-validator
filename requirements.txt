@@ -1,0 +1,20 @@
+# LLM
+groq
+langchain-groq
+langchain-core
+
+# Fuzzy county matching
+rapidfuzz
+
+# Word-to-number parsing
+word2number
+
+# API
+fastapi
+uvicorn
+
+# Validation
+pydantic
+
+# Utils
+python-dotenv
